@@ -20,4 +20,4 @@ const player = new Player({
 });
 
 
-player.draw(100, 100);
+player.draw(100, 20);
